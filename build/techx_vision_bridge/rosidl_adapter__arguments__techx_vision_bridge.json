@@ -1,0 +1,6 @@
+{
+  "package_name": "techx_vision_bridge",
+  "non_idl_tuples": [
+    "/home/xie/techx_R2_algorithm/techx_vision_brige/src/techx_vision_bridge:msg/Target3D.msg"
+  ]
+}
