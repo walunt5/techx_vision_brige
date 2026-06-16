@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
-  "../rosidl_generator_rs/techx_vision_bridge/rust/Cargo.toml"
-  "../rosidl_generator_rs/techx_vision_bridge/rust/build.rs"
-  "../rosidl_generator_rs/techx_vision_bridge/rust/src/lib.rs"
-  "../rosidl_generator_rs/techx_vision_bridge/rust/src/msg.rs"
-  "../rosidl_generator_rs/techx_vision_bridge/rust/src/msg/rmw.rs"
+  "/home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge/rosidl_generator_rs/techx_vision_bridge/rust/Cargo.toml"
+  "/home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge/rosidl_generator_rs/techx_vision_bridge/rust/build.rs"
+  "/home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge/rosidl_generator_rs/techx_vision_bridge/rust/src/lib.rs"
+  "/home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge/rosidl_generator_rs/techx_vision_bridge/rust/src/msg.rs"
+  "/home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge/rosidl_generator_rs/techx_vision_bridge/rust/src/msg/rmw.rs"
   "CMakeFiles/techx_vision_bridge__rs"
 )
 

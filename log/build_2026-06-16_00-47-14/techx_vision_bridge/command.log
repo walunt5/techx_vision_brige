@@ -1,4 +1,0 @@
-Invoking command in '/home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge -- -j32 -l32
-Invoked command in '/home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge -- -j32 -l32
-Invoking command in '/home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge
-Invoked command in '/home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/xie/techx_R2_algorithm/techx_vision_brige/build/techx_vision_bridge
